@@ -10,7 +10,7 @@
     justify-content: center;
     flex-direction: column;
     align-items: center;
-    background: linear-gradient(rgb(0, 0, 0),rgb(35, 255, 218));
+    background: linear-gradient(rgb(158, 51, 51),rgb(201, 193, 80));
     font-family:sans-serif;
   }
   .location,.temperature{
